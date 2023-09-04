@@ -14,5 +14,12 @@
         android:layout_height="wrap_content"
         android:text="@string/move_activity" />
 
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/move_with_data"
+        android:id="@+id/btn_move_with_data"/>
+
+
 
 </LinearLayout>
